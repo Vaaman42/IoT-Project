@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IoT-Project</string>
+    <string name="ID">Linked ID :</string>
+    <string name="NotLinked">Not Linked!</string>
+    <string name="Save">Save Changes</string>
+    <string name="RED">Red Value:</string>
+    <string name="GREEN">Green Value:</string>
+    <string name="BLUE">Blue Value:</string>
+    <string name="Connect">Select a device to pair...</string>
+</resources>
